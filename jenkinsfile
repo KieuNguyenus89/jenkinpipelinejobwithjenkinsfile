@@ -1,5 +1,3 @@
-Written by Anonymous
-
 pipeline {
     agent any
      tools {
